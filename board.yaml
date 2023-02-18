@@ -1,0 +1,210 @@
+cell_type:
+  0: "Blank"
+  1: "Ladder"
+  2: "Snake"
+
+board:
+  - 
+    x: 0
+    cell_type: 0
+    dx: 0
+  - 
+    x: 1
+    cell_type: 0
+    dx: 1
+  - 
+    x: 2
+    cell_type: 1
+    dx: 40
+  - 
+    x: 3
+    cell_type: 0
+    dx: 3 
+  - 
+    x: 4
+    cell_type: 0
+    dx: 4
+  - 
+    x: 5
+    cell_type: 0
+    dx: 5
+  - 
+    x: 6
+    cell_type: 0
+    dx: 6
+  - 
+    x: 7
+    cell_type: 1
+    dx: 33
+  - 
+    x: 8
+    cell_type: 0
+    dx: 8
+  - 
+    x: 9
+    cell_type: 0
+    dx: 9
+  - 
+    x: 10
+    cell_type: 0
+    dx: 0
+  - 
+    x: 11
+    cell_type: 0
+    dx: 11
+  - 
+    x: 12
+    cell_type: 0
+    dx: 12
+  - 
+    x: 13
+    cell_type: 1
+    dx: 26
+  - 
+    x: 14
+    cell_type: 0
+    dx: 14
+  - 
+    x: 15
+    cell_type: 0
+    dx: 15
+  - 
+    x: 16
+    cell_type: 2
+    dx: 9
+  - 
+    x: 17
+    cell_type: 0
+    dx: 17
+  - 
+    x: 18
+    cell_type: 0
+    dx: 18
+  - 
+    x: 19
+    cell_type: 1
+    dx: 31
+  - 
+    x: 20
+    cell_type: 0
+    dx: 20
+  - 
+    x: 21
+    cell_type: 0
+    dx: 21
+  - 
+    x: 22
+    cell_type: 0
+    dx: 22
+  - 
+    x: 23
+    cell_type: 0
+    dx: 23
+  - 
+    x: 24
+    cell_type: 2
+    dx: 6
+  - 
+    x: 25
+    cell_type: 0
+    dx: 25
+  - 
+    x: 26
+    cell_type: 0
+    dx: 26
+  - 
+    x: 27
+    cell_type: 0
+    dx: 27
+  - 
+    x: 28
+    cell_type: 0
+    dx: 28
+  - 
+    x: 29
+    cell_type: 0
+    dx: 29
+  - 
+    x: 30
+    cell_type: 2
+    dx: 14 
+  - 
+    x: 31
+    cell_type: 0
+    dx: 31
+  - 
+    x: 32
+    cell_type: 0
+    dx: 32
+  - 
+    x: 33
+    cell_type: 0
+    dx: 33
+  - 
+    x: 34
+    cell_type: 0
+    dx: 34
+  - 
+    x: 35
+    cell_type: 2
+    dx: 27
+  - 
+    x: 36
+    cell_type: 0
+    dx: 36
+  - 
+    x: 37
+    cell_type: 0
+    dx: 37
+  - 
+    x: 38
+    cell_type: 0
+    dx: 38
+  - 
+    x: 39
+    cell_type: 0
+    dx: 39
+  - 
+    x: 40
+    cell_type: 0
+    dx: 40
+  - 
+    x: 41
+    cell_type: 0
+    dx: 41
+  - 
+    x: 42
+    cell_type: 2
+    dx: 38
+  - 
+    x: 43
+    cell_type: 0
+    dx: 43
+  - 
+    x: 44
+    cell_type: 0
+    dx: 44
+  - 
+    x: 45
+    cell_type: 0
+    dx: 45
+  - 
+    x: 46
+    cell_type: 0
+    dx: 46
+  - 
+    x: 47
+    cell_type: 2
+    dx: 22
+  - 
+    x: 48
+    cell_type: 0
+    dx: 48
+  - 
+    x: 49
+    cell_type: 2
+    dx: 1
+  - 
+    x: 50
+    cell_type: 0
+    dx: 50
