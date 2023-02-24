@@ -6,3 +6,19 @@
 5. Game ends when one player reaches position 50
 6. First player to reach position 50 is winner
 
+==GAME API==
+===Start Game===
+game = Game()
+
+===Join Player===
+player_id = game.join("PLAYER_NAME")
+
+===Play Turn===
+game_state_json = game.play_turn(player_id)
+ - returns game state in JSON string if successful turn
+ - throws excpetion if 
+  1. player does not have turn
+  2. game has ended
+
+
+
