@@ -1,3 +1,7 @@
+# Setup #
+`$> pip install PyYAML`
+
+
 # RULES #
 1. Max 4 players
 2. First join first turn
